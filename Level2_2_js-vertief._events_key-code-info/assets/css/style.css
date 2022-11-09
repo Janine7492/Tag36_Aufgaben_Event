@@ -1,0 +1,38 @@
+#bigOutput {
+    font-size: 5rem;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+#boxesArea {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div div {
+    border: 1px solid darkgray;
+}
+
+.blueHeadline {
+    width: 10rem;
+    background-color: lightblue;
+    padding: 2rem;
+    text-align: center;
+    margin: 0;
+}
+
+.outputText {
+    width: 10rem;
+    height: 2rem;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+input {
+    width: 96%;
+    height: 4rem;
+    border: none;
+    text-align: center;
+    margin-top: 2rem;
+}
